@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Kubernetes
+- 📝 My blog is available at [libcuda.so](https://libcuda.so)
+    - Wordle records is updated at [/wordle](https://libcuda.so/wordle)
+    - TIL is updated at [/til](https://libcuda.so/til)
+- 📫 How to reach me: [me@libcuda.so](mailto:me@libcuda.so)
+
+[![History](https://codestats-readme.vercel.app/api/history/?username=killercai&layout=horizontal)](https://github.com/ciiiii)
