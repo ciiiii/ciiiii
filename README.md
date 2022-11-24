@@ -20,4 +20,4 @@ Here are some ideas to get you started:
     - TIL is updated at [/til](https://libcuda.so/til)
 - 📫 How to reach me: [me@libcuda.so](mailto:me@libcuda.so)
 
-[![History](https://codestats-readme.vercel.app/api/history/?username=killercai&layout=horizontal)](https://github.com/ciiiii)
+[![History](https://codestats-readme.libcuda.so/api/history/?username=killercai&layout=horizontal)](https://github.com/ciiiii)
