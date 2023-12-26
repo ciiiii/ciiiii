@@ -21,3 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [me@libcuda.so](mailto:me@libcuda.so)
 
 [![History](https://codestats-readme.libcuda.so/api/history/?username=killercai&layout=horizontal)](https://github.com/ciiiii)
+<picture>
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ciiiii/ciiiii/output/github-contribution-grid-snake.svg"
+  />
+</picture>
